@@ -377,6 +377,10 @@ a {
   margin-bottom: 5px;
 }
 
+.peoples a {
+  font-weight: bold;
+}
+
 .footer {
   background-color: #727272;
   margin-top: 20px;
