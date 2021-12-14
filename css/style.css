@@ -53,12 +53,14 @@ a {
   padding-bottom: 5px;
   border: none;
   cursor: pointer;
-  background: url(/images/search_btn.png) no-repeat;
+  background: url(joseff-regmi/github.io/Tutangle/images/search_btn.png)
+    no-repeat;
   background-size: contain;
 }
 
 #search_input_id {
-  background: url(/images/search_bg.png) no-repeat;
+  background: url(joseff-regmi/github.io/Tutangle/images/search_bg.png)
+    no-repeat;
   background-size: cover;
   border: none;
   font-size: 12px;
@@ -69,7 +71,7 @@ a {
 
 #magnify_id {
   border: none;
-  background: url(/images/magnify.png) no-repeat;
+  background: url(joseff-regmi/github.io/Tutangle/images/magnify.png) no-repeat;
   background-size: contain;
   width: 27px;
   height: 27px;
@@ -260,7 +262,7 @@ a {
   float: left;
   width: 256px;
   height: 70px;
-  background: url(/images/all_entries_bg.png);
+  background: url(joseff-regmi/github.io/Tutangle/images/all_entries_bg.png);
   background-size: cover;
 }
 
@@ -268,7 +270,7 @@ a {
   float: right;
   width: 256px;
   height: 70px;
-  background: url(/images/subscribed_bg.png);
+  background: url(joseff-regmi/github.io/Tutangle/images/subscribed_bg.png);
   background-size: cover;
 }
 .middle_box_left_label {
@@ -292,7 +294,7 @@ a {
   padding-top: 8px;
   padding-bottom: 8px;
   width: 101px;
-  background: url(/images/grey_btn.png) no-repeat;
+  background: url(joseff-regmi/github.io/Tutangle/images/grey_btn.png) no-repeat;
   background-size: contain;
 }
 
@@ -300,7 +302,7 @@ a {
 .friends:hover,
 .new_entries:hover,
 .new_comments:hover {
-  background: url(/images/blue_btn.png) no-repeat;
+  background: url(joseff-regmi/github.io/Tutangle/images/blue_btn.png) no-repeat;
   background-size: contain;
 }
 
