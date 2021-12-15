@@ -254,6 +254,11 @@ a {
   height: 70px;
   font-size: 12px;
   text-align: center;
+  font-weight: bold;
+}
+
+.middle_box_heading a {
+  color: #474747;
 }
 
 .middle_box_left {
